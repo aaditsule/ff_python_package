@@ -13,4 +13,6 @@ dependencies = []
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
-
+[testpypi]
+  username = __token__
+  password = pypi-AgENdGVzdC5weXBpLm9yZwIkNzhlYWI3MmMtMWNmYi00MTViLTg3ZjMtNzVhYmRmYzllMGU2AAIqWzMsImRmZWE2MzVjLTI5ZDAtNGY1MC1hYmExLWU2ODA5N2YyM2JkOSJdAAAGIEJH38d1p968TgtLhMEwwUo3k4chdGgm_zSkcD5rwUJc
