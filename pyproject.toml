@@ -1,5 +1,5 @@
 [project]
-name = "python_package"
+name = "ff_python_package"
 version = "0.1.0"
 description = "A sample Python package"
 readme = "README.md"
