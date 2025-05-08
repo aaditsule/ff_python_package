@@ -1,2 +1,1 @@
-# python_package
-A sample Python package
+# Python Package
